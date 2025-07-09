@@ -9,7 +9,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: whitesmoke;
+    background: #f797ef;
 }
 
 .wrapper {
@@ -21,7 +21,7 @@ body {
 
 h2 {
     font-size: 2em;
-    color: #e94d58;
+    color: #f40b77;
     margin: 15px 0;
 }
 
